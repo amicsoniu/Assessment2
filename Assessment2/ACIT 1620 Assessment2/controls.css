@@ -1,0 +1,47 @@
+#rg1 {
+    width:80px;
+    right:0px;
+}
+
+#rg2 {
+    width:80px;
+}
+
+#rg3 {
+    width:80px;
+}
+
+#rg4 {
+    width:80px;
+}
+
+#colorRange {
+    width:80px;
+}
+
+#rangeButton {
+    width:80px;
+}
+
+#numberButton {
+    width:80px;
+    background-color:blue;
+}
+
+#randomButton {
+    width:80px;
+    background-color:pink;
+}
+
+#plusButton {
+    width:80px;
+}
+
+#autoButton {
+    width:80px;
+}
+
+#stopButton {
+    width:80px;
+}
+
